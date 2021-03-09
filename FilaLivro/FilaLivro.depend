@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1539638381 source:c:\users\dell\filalivro\main.c
+	<stdio.h>
+	<stdlib.h>
+	"FilaLivro.h"
+
+1539638339 c:\users\dell\filalivro\filalivro.c
+	<stdio.h>
+	<stdlib.h>
+
+1539637869 c:\users\dell\filalivro\filalivro.h
+

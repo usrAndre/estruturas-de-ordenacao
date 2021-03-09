@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1542316736 source:c:\users\dell\arvorebinde\arvorebinde.c
+	<stdio.h>
+	<stdlib.h>
+	"arvorebinde.h"
+
+1542316647 c:\users\dell\arvorebinde\arvorebinde.h
+
+1542316648 source:c:\users\dell\arvorebinde\main.c
+	<stdio.h>
+	"arvorebinde.h"
+
